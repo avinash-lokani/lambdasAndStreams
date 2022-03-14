@@ -1,0 +1,44 @@
+
+[
+java:S16590"@Declare "age" and all following declarations on a separate line.(–½ÿËüÿÿÿÿ
+Y
+java:S16591"CDeclare "gender" and all following declarations on a separate line.(Â¯×í
+N	java:S106E"9Replace this use of System.out or System.err by a logger.(–æˆ¼
+N	java:S106F"9Replace this use of System.out or System.err by a logger.(çë§æ
+S	java:S106K"9Replace this use of System.out or System.err by a logger.(ØùÑŞüÿÿÿÿ
+N	java:S106L"9Replace this use of System.out or System.err by a logger.(çë§æ
+S	java:S106R"9Replace this use of System.out or System.err by a logger.(üã…ˆúÿÿÿÿ
+N	java:S106S"9Replace this use of System.out or System.err by a logger.(çë§æ
+T
+java:S1612V"?Replace this lambda with method reference 'Student::getGender'.(³ä²W
+N	java:S106Y"9Replace this use of System.out or System.err by a logger.(Ø‹ñË
+N	java:S106Z"9Replace this use of System.out or System.err by a logger.(çë§æ
+S	java:S106c"9Replace this use of System.out or System.err by a logger.(ÅÙÃ‘øÿÿÿÿ
+N	java:S106d"9Replace this use of System.out or System.err by a logger.(çë§æ
+N	java:S106g"9Replace this use of System.out or System.err by a logger.(“÷£¾
+N	java:S106h"9Replace this use of System.out or System.err by a logger.(çë§æ
+S	java:S106l"9Replace this use of System.out or System.err by a logger.(Á»©§øÿÿÿÿ
+N	java:S106m"9Replace this use of System.out or System.err by a logger.(çë§æ
+M	java:S106p"9Replace this use of System.out or System.err by a logger.(Øá®@
+U	java:S106q"9Replace this use of System.out or System.err by a logger.(çë§æ8²…˜Ëø/
+Z	java:S106t"9Replace this use of System.out or System.err by a logger.(€†ı©ûÿÿÿÿ8²…˜Ëø/
+U	java:S106u"9Replace this use of System.out or System.err by a logger.(çë§æ8´…˜Ëø/
+U	java:S106{"9Replace this use of System.out or System.err by a logger.(•¢›ˆ8µ…˜Ëø/
+U	java:S106|"9Replace this use of System.out or System.err by a logger.(çë§æ8¶…˜Ëø/
+¢
+java:S1192F"‹Define a constant instead of duplicating this literal "-------------------------------------------------------------------------" 10 times.(çë§æ
+g
+java:S1192x"QDefine a constant instead of duplicating this literal "Computer Science" 6 times.(Ç¤›
+]
+java:S1192X"GDefine a constant instead of duplicating this literal "Female" 9 times.(òÇ¦
+f
+java:S1192t"KDefine a constant instead of duplicating this literal "Electronic" 5 times.(€†ı©ûÿÿÿÿ
+k	java:S117W"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×õï¤øÿÿÿÿ
+f	java:S117X"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òÇ¦
+k	java:S117`"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê®èÈùÿÿÿÿ
+k	java:S117b"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Üœµ¹øÿÿÿÿ
+f	java:S117x"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç¤›
+\
+java:S2184`"ACast one of the operands of this division operation to a "float".(ê®èÈùÿÿÿÿ
+\
+java:S2184b"ACast one of the operands of this division operation to a "float".(Üœµ¹øÿÿÿÿ

@@ -1,0 +1,22 @@
+
+Q
+java:S1854";Remove this useless assignment to local variable "stream1".(´‹ºè
+P
+java:S1854":Remove this useless assignment to local variable "stream".(„»òý
+m
+java:S4276"RRefactor this code to use the more specialised Functional Interface 'IntPredicate'(Å‰ëŽÿÿÿÿÿ
+J
+java:S1611"/Remove the parentheses around the "k" parameter(Å‰ëŽÿÿÿÿÿ
+J
+java:S1611"/Remove the parentheses around the "k" parameter(ÇéÉæûÿÿÿÿ
+P	java:S125"<This block of commented-out lines of code should be removed.(óÍô
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‘¶§Àÿÿÿÿÿ
+A
+java:S1481"+Remove this unused "stream" local variable.(„»òý
+B
+java:S1481",Remove this unused "stream1" local variable.(´‹ºè
+J
+java:S1611"/Remove the parentheses around the "i" parameter(öç–®ýÿÿÿÿ
+Q
+java:S1611"/Remove the parentheses around the "i" parameter(öç–®ýÿÿÿÿ8ÿ¼ÌÄø/
+U	java:S106 "9Replace this use of System.out or System.err by a logger.(ßíÓò8ÎÑÍÄø/
