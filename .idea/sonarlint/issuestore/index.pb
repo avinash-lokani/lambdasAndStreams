@@ -15,11 +15,3 @@ _
 /src/lambda/demo/functions/SupplierFunction.java,9/5/954cd8a2ce0da2fa31ca6273d4c3f2dc8d26726f
 ^
 .src/lambda/demo/stream/WorkingWithStreams.java,8/e/8e7e7b4cf18a44cfe4e072b8449335486506afa3
-X
-(src/lambda/demo/functions/Functions.java,a/5/a5ce8a6b92821e41678815137e5e3eb4c2cb44df
-_
-/src/lambda/demo/functions/ConsumerFunction.java,0/5/05334a130c83d97ede4eaebf5d31ba4136e54a05
-a
-1src/lambda/demo/functions/PredicateFunctions.java,a/9/a911af94ee31f4d376193734fc7674c9f3a9f9b0
-^
-.src/lambda/demo/streamsassignment/Student.java,7/3/735080a9b1061dd0146f8f9655b2a301cbd84d71

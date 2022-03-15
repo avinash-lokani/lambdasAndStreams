@@ -1,13 +1,0 @@
-
-h
-java:S4276	"RRefactor this code to use the more specialised Functional Interface 'IntPredicate'(òÍñ»
-E
-java:S1611	"/Remove the parentheses around the "i" parameter(òÍñ»
-J
-java:S1611
-"/Remove the parentheses around the "i" parameter(¡ıÔªÿÿÿÿÿ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(¤Ş•Å
-S	java:S106"9Replace this use of System.out or System.err by a logger.(ÔÖˆäøÿÿÿÿ
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÍÊå¸ıÿÿÿÿ8¦âğÀø/
-U	java:S106"9Replace this use of System.out or System.err by a logger.(óÑ“‹8§âğÀø/
-U	java:S106"9Replace this use of System.out or System.err by a logger.(Ÿ²Ö¦8Î›õÀø/
